@@ -1,0 +1,7 @@
+*.kml
+*.so
+*.o
+
+test
+test2pre
+/testFiles
