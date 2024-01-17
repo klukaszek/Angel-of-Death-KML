@@ -1,4 +1,4 @@
-# Keyhole Markup Language Parser
+# Keyhole Markup Language Parser and Editor
 
 Kyle Lukaszek
 CIS2750 Assignment 3 
