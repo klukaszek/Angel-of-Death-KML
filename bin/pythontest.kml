@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <StyleMap id="inline1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#inline</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#inline0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="inline">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Style id="inline0">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>lol</name>
+      <description>Length: 2881m, according to Google Earth</description>
+      <styleUrl>#inline1</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>-80.219712,43.536144,0.000000 -80.217359,43.537991,0.000000 -80.217728,43.538284,0.000000 -80.218241,43.538687,0.000000 -80.218823,43.539159,0.000000 -80.219206,43.539647,0.000000 -80.219501,43.540786,0.000000 -80.220066,43.541319,0.000000 -80.220632,43.542035,0.000000 -80.221568,43.542827,0.000000 -80.221913,43.543241,0.000000 -80.221543,43.544536,0.000000 -80.220706,43.545300,0.000000 -80.220055,43.545807,0.000000 -80.219386,43.546194,0.000000 -80.218736,43.546507,0.000000 -80.217609,43.545486,0.000000 -80.217085,43.544742,0.000000 -80.216090,43.544205,0.000000 -80.215628,43.543719,0.000000 -80.215229,43.541758,0.000000 -80.214386,43.540711,0.000000 -80.214590,43.540096,0.000000 -80.215204,43.539544,0.000000 -80.216056,43.538817,0.000000 -80.216709,43.538350,0.000000 -80.217870,43.537558,0.000000 -80.218491,43.537030,0.000000 -80.219353,43.536362,0.000000 -80.219565,43.536066,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

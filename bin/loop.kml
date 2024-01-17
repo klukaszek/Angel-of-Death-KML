@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>loop</name>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ff2dc0fb</color>
+		</LineStyle>
+	</Style>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff2dc0fb</color>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Loop</name>
+		<styleUrl>#failed</styleUrl>
+		<LineString>
+			<coordinates>
+				-80.23049309303195,43.53365527589057,343.8620381138023 -80.23115420104205,43.5331687393859,341.3260079456592 -80.2306915708691,43.5328722584312,340.6840964164327 -80.2298019071531,43.533058078863,343.3490643054312 -80.23039548110046,43.53360372188232,344.8424145526016 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
