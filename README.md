@@ -11,3 +11,8 @@ This was a semester long project that I worked on for CIS2750 Software Systems D
 To compile the parser execute `make parser` and libkmlparser.so will appear in /bin.
 
 To run the program make sure the parser library is compiled, and then go to /bin and execute `python3 A3main.py`
+
+## Images
+
+![Application](images/launch.png)
+![KML Example](images/example.png)
